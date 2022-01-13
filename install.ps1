@@ -15,7 +15,7 @@ $pkgs = @(
     "RARLab.WinRAR.Beta"
     "Tonec.InternetDownloadManager"
     # msstore
-    "XP8JK4HZBVF435" # Discord
+    "XPDC2RH70K22MN" # Discord
     "9NCBCSZSJRSB" # Spotify
     "XP89DCGQ3K6VLD" # Power Toys
     "9N97ZCKPD60Q" # Unigram
