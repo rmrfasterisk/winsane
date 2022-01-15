@@ -18,7 +18,7 @@ $pkgs = @(
     "XPDC2RH70K22MN" # Discord
     "9NCBCSZSJRSB" # Spotify
     "XP89DCGQ3K6VLD" # Power Toys
-    "9N97ZCKPD60Q" # Unigram
+    "9NZTWSQNTD0S" # Telegram
     "XP8JK4HZBVF435" # Auto Dark Mode
     "9N64SQZTB3LM" # MPV
     "9PJZ3BTL5PV6" # IrfanView64
