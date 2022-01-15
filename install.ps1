@@ -24,7 +24,7 @@ $pkgs = @(
     "9PJZ3BTL5PV6" # IrfanView64
     "9NBLGGH4Z1SP" # ShareX
     "9P95ZZKTNRN4" # Powershell Preview
-    "9426MICRO-STARINTERNATION.MSICenter_kzh8wxbdkxb8p" # MSI Center
+    "9NH7N2BV1CQQ" # MSI Dragon Center
 )
 
 ForEach ($pkg in $pkgs) {
