@@ -30,3 +30,4 @@ $pkgs = @(
 ForEach ($pkg in $pkgs) {
     winget install --id $pkg --accept-source-agreements --accept-package-agreements --silent --force --exact
 }
+
