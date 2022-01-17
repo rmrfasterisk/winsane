@@ -1,5 +1,5 @@
 $pkgs = @(
-    "Microsoft.Edge.Dev"
+    "Mozilla.Firefox.Beta"
     "Microsoft.WindowsTerminal.Preview"
     "WhatsApp.WhatsApp"
     "Microsoft.VisualStudioCode"
